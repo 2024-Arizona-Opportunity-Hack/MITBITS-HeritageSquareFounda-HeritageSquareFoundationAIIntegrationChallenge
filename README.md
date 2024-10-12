@@ -11,9 +11,8 @@
 @Irish Mehta (on Slack)
 
 ## Team "MITBITS"
-- [Team Member 1](GitHub profile link)
-- [Team Member 2](GitHub profile link)
-- [Team Member 3](GitHub profile link)
+- [Hakka Madan](https://github.com/HakkaMadan02)
+- [Shitij](https://github.com/shitijkarsolia)
 <!-- Add all team members -->
 
 ## Project Overview
