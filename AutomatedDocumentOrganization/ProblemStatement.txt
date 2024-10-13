@@ -1,0 +1,23 @@
+Heritage Square’s google drive is unorganized and difficult to find documents that are needed for marketing, operations, and grants.
+AI Agent can assist with finding documents and potentially suggest best ways to reorganize the drives.
+
+AI Agent can add tags or labels to the documents based on high level categories provided. 
+
+Once files are labeled, AI can suggest how to organize the files give specific parameters, ie. group by year/month and then sort by creation dates and then labels. 
+
+Actually move the files into above organized google shared drives. 
+Categories: 
+Accounting
+Curation
+Development (contributed revenue generation)
+Employee resources (HR)
+Board of Directors
+Marketing
+Operations 
+Programming
+Research (historic info -
+Images (historic vs not historic) - can be a third phase if needed, after the hackathon is completed
+Sample drive and sample files in each category will be helpful
+Kari needs to provide access credentials to the test google drive.
+Group files by creation dates (example format: ddyymm)
+Sort files by creation dates
