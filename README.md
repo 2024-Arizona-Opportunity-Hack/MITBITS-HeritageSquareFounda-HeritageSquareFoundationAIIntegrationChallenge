@@ -12,7 +12,7 @@
 
 ## Team "MITBITS"
 - [Hakka Madan](https://github.com/HakkaMadan02)
-- [Shitij](https://github.com/shitijkarsolia)
+- [Shitij Mathur](https://github.com/shitijkarsolia)
 <!-- Add all team members -->
 
 ## Project Overview
